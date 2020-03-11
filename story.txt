@@ -1,2 +1,3 @@
 once upon a time there lived two siblings in an abandoned village named Hansel and Gratel. They both belonged to a poor family and faced a lot of struggles. The family was starving since days and did not have a penny to afford food. One night the father and step-mother of both children decided to take a decision which was forced by extreme hunger. What they did not know was that the decision would completely change their lives.
 Then they learn Java, a powerful programming language that completely changed their lives. Now they are sitting in the office and programming a Red-Black tree.
+Hansel and Gretel missed their simpler life before coding and longed to return to the forest.  Packing up their laptops, they set off to the witches house.
